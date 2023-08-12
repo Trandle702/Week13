@@ -1,6 +1,13 @@
 {
   "employeeFirstName": "Samantha",
   "employeeLastName": "Burns",
-  "employeeEmail": "samantha_burns@ngo.gov",
+  "employeePhone": "702-123-4567",
   "employeeJobTitle": "Manager"
+}
+
+{
+  "employeeFirstName": "Tom",
+  "employeeLastName": "Hanks",
+  "employeePhone": "725-890-1234",
+  "employeeJobTitle": "Assistant Manager"
 }
