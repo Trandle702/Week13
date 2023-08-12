@@ -1,0 +1,26 @@
+{
+  "petStoreName": "Really Cool Pet Store",
+  "petStoreAddress": "8395 North Bladford Lane",
+  "petStoreCity": "Gangrene",
+  "petStoreState": "Georgia",
+  "petStoreZip" : "12345",
+  "petStorePhone": "303-322-4995"
+}
+
+{
+  "petStoreName": "Random Pet Store",
+  "petStoreAddress": "1234 Random Street",
+  "petStoreCity": "Las Vegas",
+  "petStoreState": "Nevada",
+  "petStoreZip" : "67890",
+  "petStorePhone": "702-123-4567"
+}
+
+{
+  "petStoreName": "Awesome Pet Store",
+  "petStoreAddress": "1234 Awesome Street",
+  "petStoreCity": "Las Vegas",
+  "petStoreState": "Nevada",
+  "petStoreZip" : "12345",
+  "petStorePhone": "702-890-1234"
+}

@@ -23,7 +23,7 @@ public class Customer {
 	
 	private String customerFirstName;
 	private String customerLastName;
-	private String customeEmail;
+	private String customerEmail;
 	
 	@EqualsAndHashCode.Exclude
 	@ToString.Exclude
